@@ -1,2 +1,2 @@
-# RTOS
+# RATOS
 Rato é uma designação comum para diversos pequenos mamíferos pertencentes à ordem dos roedores, assim como um nome genérico dado a diversos mamíferos roedores pertencentes às famílias Muridae, Cricetidae, Heteromyidae, Diatomyidae e Bathyergidae. A infecção nas pessoas se dá pelo contato direto com a urina de ratos contaminados ou através da água, dos alimentos e do solo contaminados pela secreção dos animais.
